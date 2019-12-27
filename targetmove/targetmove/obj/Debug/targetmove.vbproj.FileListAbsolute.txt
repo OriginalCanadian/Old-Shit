@@ -1,0 +1,11 @@
+c:\users\thomas\documents\visual studio 2015\Projects\targetmove\targetmove\bin\Debug\targetmove.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\targetmove\targetmove\bin\Debug\targetmove.exe
+c:\users\thomas\documents\visual studio 2015\Projects\targetmove\targetmove\bin\Debug\targetmove.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\targetmove\targetmove\bin\Debug\targetmove.xml
+c:\users\thomas\documents\visual studio 2015\Projects\targetmove\targetmove\obj\Debug\targetmove.Form1.resources
+c:\users\thomas\documents\visual studio 2015\Projects\targetmove\targetmove\obj\Debug\targetmove.Resources.resources
+c:\users\thomas\documents\visual studio 2015\Projects\targetmove\targetmove\obj\Debug\targetmove.vbproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2015\Projects\targetmove\targetmove\obj\Debug\targetmove.exe
+c:\users\thomas\documents\visual studio 2015\Projects\targetmove\targetmove\obj\Debug\targetmove.xml
+c:\users\thomas\documents\visual studio 2015\Projects\targetmove\targetmove\obj\Debug\targetmove.pdb
+C:\Users\Thomas\documents\visual studio 2015\Projects\targetmove\targetmove\obj\Debug\targetmove.vbprojResolveAssemblyReference.cache

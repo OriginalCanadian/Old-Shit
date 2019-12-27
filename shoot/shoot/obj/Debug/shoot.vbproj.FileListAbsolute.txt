@@ -1,0 +1,11 @@
+c:\users\thomas\documents\visual studio 2015\Projects\shoot\shoot\bin\Debug\shoot.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\shoot\shoot\bin\Debug\shoot.exe
+c:\users\thomas\documents\visual studio 2015\Projects\shoot\shoot\bin\Debug\shoot.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\shoot\shoot\bin\Debug\shoot.xml
+c:\users\thomas\documents\visual studio 2015\Projects\shoot\shoot\obj\Debug\shoot.vbprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2015\Projects\shoot\shoot\obj\Debug\shoot.Form1.resources
+c:\users\thomas\documents\visual studio 2015\Projects\shoot\shoot\obj\Debug\shoot.Resources.resources
+c:\users\thomas\documents\visual studio 2015\Projects\shoot\shoot\obj\Debug\shoot.vbproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2015\Projects\shoot\shoot\obj\Debug\shoot.exe
+c:\users\thomas\documents\visual studio 2015\Projects\shoot\shoot\obj\Debug\shoot.xml
+c:\users\thomas\documents\visual studio 2015\Projects\shoot\shoot\obj\Debug\shoot.pdb

@@ -1,0 +1,11 @@
+c:\users\thomas\documents\visual studio 2015\Projects\slots\slots\bin\Debug\slots.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\slots\slots\bin\Debug\slots.exe
+c:\users\thomas\documents\visual studio 2015\Projects\slots\slots\bin\Debug\slots.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\slots\slots\bin\Debug\slots.xml
+c:\users\thomas\documents\visual studio 2015\Projects\slots\slots\obj\Debug\slots.Form1.resources
+c:\users\thomas\documents\visual studio 2015\Projects\slots\slots\obj\Debug\slots.Resources.resources
+c:\users\thomas\documents\visual studio 2015\Projects\slots\slots\obj\Debug\slots.vbproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2015\Projects\slots\slots\obj\Debug\slots.exe
+c:\users\thomas\documents\visual studio 2015\Projects\slots\slots\obj\Debug\slots.xml
+c:\users\thomas\documents\visual studio 2015\Projects\slots\slots\obj\Debug\slots.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\slots\slots\obj\Debug\slots.vbprojResolveAssemblyReference.cache
