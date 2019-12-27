@@ -1,0 +1,11 @@
+c:\users\thomas\documents\visual studio 2015\Projects\Beauty Salon\Beauty Salon\bin\Debug\Beauty Salon.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\Beauty Salon\Beauty Salon\obj\Debug\Beauty Salon.vbprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2015\Projects\Beauty Salon\Beauty Salon\obj\Debug\Beauty_Salon.Form1.resources
+c:\users\thomas\documents\visual studio 2015\Projects\Beauty Salon\Beauty Salon\obj\Debug\Beauty_Salon.Resources.resources
+c:\users\thomas\documents\visual studio 2015\Projects\Beauty Salon\Beauty Salon\obj\Debug\Beauty Salon.vbproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2015\Projects\Beauty Salon\Beauty Salon\obj\Debug\Beauty Salon.xml
+c:\users\thomas\documents\visual studio 2015\Projects\Beauty Salon\Beauty Salon\bin\Debug\Beauty Salon.exe
+c:\users\thomas\documents\visual studio 2015\Projects\Beauty Salon\Beauty Salon\bin\Debug\Beauty Salon.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\Beauty Salon\Beauty Salon\bin\Debug\Beauty Salon.xml
+c:\users\thomas\documents\visual studio 2015\Projects\Beauty Salon\Beauty Salon\obj\Debug\Beauty Salon.exe
+c:\users\thomas\documents\visual studio 2015\Projects\Beauty Salon\Beauty Salon\obj\Debug\Beauty Salon.pdb
